@@ -1,0 +1,5 @@
+- Greetings!
+- I am Aryan Patelia
+- A student of Diploma in Computer Engineering
+- Diploma level knowledge of C, C++ , HTMl ,CSS and a small portion of Python
+- Future Goal is to be a M.E.R.N Stack Developer
