@@ -1,6 +1,5 @@
-
-
 -- Skills --
+
 Frontend :
   - HTML
   - CSS
@@ -12,4 +11,4 @@ Backend :
   - Django
 
 -- Projects --
-> Not many projects made yet , will soon upload a few in the future.
+> https://icymabad.com
